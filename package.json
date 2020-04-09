@@ -4,8 +4,7 @@
   "description": "mern api para MERN TASK",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
-    "dev": "nodemon ."
+    "start": "node ."
   },
   "author": "Mauricio Antonio Diaz",
   "license": "ISC",
